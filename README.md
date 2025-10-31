@@ -94,7 +94,7 @@ All outputs (metrics, plots, logs) are automatically saved to `/experiments/resu
 * Model fairness varied by sex and view position, emphasizing **ethical deployment concerns**.
 
 ---
-
+<!--
 ## 📘 Citation
 
 If you reference this work in your own research, please use the following BibTeX entry:
@@ -103,6 +103,7 @@ If you reference this work in your own research, please use the following BibTeX
 @thesis{chamisa2025pneumoniafusion,
   title={Development of a Machine Learning Model for Automatic Detection of Pneumonia from Chest X-Rays},
   author={Chamisa, Pride},
-  school={University of Cape Town},
+  school={University of South Africa},
   year={2025}
 }
+-->
