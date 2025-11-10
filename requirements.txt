@@ -1,0 +1,15 @@
+numpy==1.26.4
+pandas
+torch
+torchvision
+scikit-learn
+tqdm
+pillow
+matplotlib
+imageio
+pydicom==3.0.1
+grad-cam==1.5.5
+ttach==0.0.3
+scipy==1.15.1
+shap==0.45.0
+
